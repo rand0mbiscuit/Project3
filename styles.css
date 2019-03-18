@@ -125,13 +125,13 @@ img.my-picture {
 }
 
 img.redSoloCup-small {
-  width: 100%;
+  max-width: 100%;
 }
 
 img.glass-small {
-  width: 100%;
+  max-width: 100%;
 }
 
 img.glassBottle-small {
-  width: 100%;
+  max-width: 100%;
 }
